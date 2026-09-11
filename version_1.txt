@@ -1,1 +1,2 @@
 Creating version_1 file
+bug fixed
